@@ -14,6 +14,8 @@ The outcome of this project will be a robust and accurate emotion recognition mo
 Results
 
 -Lack of customization: The unique emotional expressions and requirements of people with ASD may not be able to be met by the current methods without adaptation. 
+
 -Accuracy: Systems for recognizing emotions could have trouble identifying the subtle emotional clues that people with ASD frequently display. 
+
 -Insufficient educational elements: The educational components necessary to teach people with ASD about emotions could not be present in these systems. 
 
